@@ -1,120 +1,120 @@
-# E-Class Solid Propellant Rocket Development
+# E-Class Solid Propellant Rocket
 
-## Project Overview
+## Overview
 
-This project involved the design, development, and testing of an E-class solid propellant rocket featuring an integrated parachute recovery system. The objective was to develop a reliable, flight-ready rocket capable of stable propulsion and controlled post-flight recovery.
+This project involved the design, development, manufacturing, and testing of an E-Class solid propellant rocket with an integrated recovery system.
 
-The project combined propulsion system design, structural development, additive manufacturing, and recovery mechanism integration.
-
----
-
-## Objectives
-
-* Design and develop an E-class solid rocket motor.
-* Formulate and evaluate solid propellant performance.
-* Develop a reliable recovery system.
-* Integrate propulsion and structural subsystems.
-* Demonstrate successful launch and recovery.
+The project was developed as part of LPU's Cognitia 2025 technical competition and focused on propulsion system development, structural design, manufacturing, and flight recovery.
 
 ---
 
-## Propulsion System
+## Project Objectives
 
-### Motor Configuration
-
-| Parameter          | Value                              |
-| ------------------ | ---------------------------------- |
-| Rocket Type        | Solid Propellant Rocket            |
-| Propellant         | Potassium Nitrate (KNO₃) + Sucrose |
-| Approximate Thrust | 27 N                               |
-| Recovery System    | Parachute Deployment               |
-
-### Propellant Evaluation
-
-* Investigated combustion stability.
-* Evaluated repeatability of motor performance.
-* Assessed propulsion efficiency.
+* Design and develop an E-Class solid rocket motor
+* Evaluate solid propellant performance
+* Integrate a parachute-based recovery system
+* Manufacture flight-ready hardware
+* Demonstrate successful launch and recovery
 
 ---
 
-## Recovery System
+## Key Specifications
 
-The rocket incorporated a servo-actuated parachute deployment system designed to enable controlled descent and post-flight recovery.
-
-Key features:
-
-* Modular recovery architecture
-* Lightweight deployment mechanism
-* Improved recovery reliability
-
----
-
-## Manufacturing & Development
-
-* Structural component fabrication
-* Motor casing development
-* Vehicle assembly
-* 3D-printed recovery hardware
-* Cost optimization through modular design
+| Parameter          | Value                       |
+| ------------------ | --------------------------- |
+| Rocket Class       | E-Class                     |
+| Approximate Thrust | 27 N                        |
+| Propellant         | Potassium Nitrate + Sucrose |
+| Recovery System    | Parachute Recovery          |
+| Manufacturing      | 3D Printed Components       |
 
 ---
 
-## Key Contributions
-
-* Developed an E-class solid rocket motor.
-* Participated in propellant formulation and testing.
-* Integrated recovery and propulsion subsystems.
-* Designed servo-based parachute deployment architecture.
-* Supported manufacturing and vehicle assembly.
-* Reduced production costs by approximately 30% through design optimization.
-
----
-
-## Tools & Technologies
+## Technologies Used
 
 * Rocket Propulsion
 * Solid Propellants
 * CAD Design
-* 3D Printing
-* Experimental Testing
-
----
-
-## Results
-
-The project successfully demonstrated:
-
-* Stable solid rocket propulsion
-* Reliable recovery system deployment
-* Efficient manufacturing workflow
-* Flight-ready hardware development
-
----
-
-## Achievement
-
-🏆 Winner – COGNITIA 2025
-
-The project secured First Place at Lovely Professional University's COGNITIA 2025 technical competition and received a trophy along with a cash prize of ₹3,000.
-
----
-
-## Skills Developed
-
-* Rocket Propulsion
-* Solid Propellants
-* Propulsion Systems
+* Additive Manufacturing
 * Experimental Testing
 * Aerospace Engineering
 
 ---
 
-## Future Work
+## Key Contributions
 
-* Static thrust testing
-* Flight performance optimization
-* Advanced recovery systems
-* Lightweight structural enhancements
+* Designed and developed a solid rocket motor generating approximately 27 N thrust.
+* Evaluated propellant formulations for stable combustion.
+* Participated in structural design and vehicle assembly.
+* Developed and integrated a parachute recovery system.
+* Contributed to manufacturing and flight testing activities.
+* Implemented modular design concepts and 3D-printed recovery hardware.
+
+---
+
+## Rocket Development
+
+### Assembly Process
+
+![Assembly](images/rocket-assembly.jpg)
+
+### Final Rocket
+
+![Rocket](images/rocket-final.jpg)
+
+### Rocket with Author
+
+![Author](images/rocket-with-author.jpg)
+
+---
+
+## Flight Demonstration
+
+### Launch
+
+![Launch](images/rocket-launch.jpg)
+
+### Recovery System Deployment
+
+![Recovery](images/rocket-recovery.jpg)
+
+---
+
+## Team
+
+### Project Team
+
+![Team](images/team-photo.jpg)
+
+---
+
+## Awards & Recognition
+
+🏆 Winner – Cognitia 2025
+
+The project secured First Place at LPU's Cognitia 2025 Technical Competition.
+
+### Award Ceremony
+
+![Ceremony](images/winner-ceremony.jpg)
+
+### Trophy
+
+![Award](images/cognitia-award-1.jpg)
+
+![Award](images/cognitia-award-2.jpg)
+
+![Award](images/cognitia-award-3.jpg)
+
+![Award](images/cognitia-award-4.jpg)
+
+---
+
+## Achievement
+
+* Winner – Cognitia 2025
+* Cash Prize: ₹3,000
+* Successfully demonstrated launch and recovery
 
 ---
 
@@ -122,5 +122,10 @@ The project secured First Place at Lovely Professional University's COGNITIA 202
 
 **Laxmipriya Murmu**
 
-B.Tech Aerospace Engineering
-Lovely Professional University
+Aerospace Engineering Undergraduate
+
+Rocket Propulsion | Space Systems | CFD & Aerodynamics
+
+[LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
+
+[GitHub](https://github.com/laxmipriyamurmu)
