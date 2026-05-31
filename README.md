@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project involved the design, development, manufacturing, and testing of an E-Class solid propellant rocket with an integrated recovery system.
+This project involved the design, development, manufacturing, and testing of an E-Class solid propellant rocket featuring an integrated parachute recovery system.
 
-The project was developed as part of LPU's Cognitia 2025 technical competition and focused on propulsion system development, structural design, manufacturing, and flight recovery.
+The project was developed as part of LPU's Cognitia 2025 technical competition and focused on propulsion system development, structural design, manufacturing, flight testing, and recovery system integration.
 
 ---
 
-## Project Objectives
+## Objectives
 
 * Design and develop an E-Class solid rocket motor
 * Evaluate solid propellant performance
@@ -20,13 +20,13 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 ## Key Specifications
 
-| Parameter          | Value                       |
-| ------------------ | --------------------------- |
-| Rocket Class       | E-Class                     |
-| Approximate Thrust | 27 N                        |
-| Propellant         | Potassium Nitrate + Sucrose |
-| Recovery System    | Parachute Recovery          |
-| Manufacturing      | 3D Printed Components       |
+| Parameter          | Value                              |
+| ------------------ | ---------------------------------- |
+| Rocket Class       | E-Class                            |
+| Approximate Thrust | 27 N                               |
+| Propellant         | Potassium Nitrate (KNO₃) + Sucrose |
+| Recovery System    | Parachute Recovery                 |
+| Manufacturing      | 3D Printed Components              |
 
 ---
 
@@ -35,9 +35,9 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 * Rocket Propulsion
 * Solid Propellants
 * CAD Design
-* Additive Manufacturing
-* Experimental Testing
+* 3D Printing
 * Aerospace Engineering
+* Experimental Testing
 
 ---
 
@@ -45,9 +45,9 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 * Designed and developed a solid rocket motor generating approximately 27 N thrust.
 * Evaluated propellant formulations for stable combustion.
-* Participated in structural design and vehicle assembly.
+* Participated in vehicle assembly and structural integration.
 * Developed and integrated a parachute recovery system.
-* Contributed to manufacturing and flight testing activities.
+* Contributed to propulsion system testing and performance evaluation.
 * Implemented modular design concepts and 3D-printed recovery hardware.
 
 ---
@@ -56,27 +56,27 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 ### Assembly Process
 
-![Assembly](images/rocket-assembly.jpg)
+![Assembly](images/rocket-assembly.png)
 
-### Final Rocket
+### Final Rocket Configuration
 
-![Rocket](images/rocket-final.jpg)
+![Rocket](images/rocket-final.png)
 
 ### Rocket with Author
 
-![Author](images/rocket-with-author.jpg)
+![Author](images/rocket-with-author.png)
 
 ---
 
 ## Flight Demonstration
 
-### Launch
+### Rocket Launch
 
-![Launch](images/rocket-launch.jpg)
+![Launch](images/rocket-launch.png)
 
-### Recovery System Deployment
+### Parachute Recovery
 
-![Recovery](images/rocket-recovery.jpg)
+![Recovery](images/rocket-recovery.png)
 
 ---
 
@@ -84,37 +84,45 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 ### Project Team
 
-![Team](images/team-photo.jpg)
+![Team](images/team-photo.png)
 
 ---
 
 ## Awards & Recognition
 
-🏆 Winner – Cognitia 2025
+🏆 **Winner – Cognitia 2025**
 
-The project secured First Place at LPU's Cognitia 2025 Technical Competition.
+The project secured First Place at Lovely Professional University's Cognitia 2025 Technical Competition.
 
 ### Award Ceremony
 
-![Ceremony](images/winner-ceremony.jpg)
+![Award Ceremony](images/winner-ceremony.png)
 
-### Trophy
+### Trophy & Recognition
 
-![Award](images/cognitia-award-1.jpg)
+![Award 1](images/cognitia-award-1.png)
 
-![Award](images/cognitia-award-2.jpg)
-
-![Award](images/cognitia-award-3.jpg)
-
-![Award](images/cognitia-award-4.jpg)
+![Award 2](images/cognitia-award-2.png)
 
 ---
 
 ## Achievement
 
-* Winner – Cognitia 2025
-* Cash Prize: ₹3,000
-* Successfully demonstrated launch and recovery
+* 🏆 Winner – Cognitia 2025
+* 💰 Cash Prize: ₹3,000
+* 🚀 Successfully demonstrated rocket launch and recovery
+* 🛠️ Developed a functional E-Class solid propulsion system
+
+---
+
+## Skills Developed
+
+* Rocket Propulsion
+* Solid Propellant Systems
+* Aerospace Manufacturing
+* Recovery Systems
+* Experimental Testing
+* 3D Printing
 
 ---
 
@@ -122,9 +130,10 @@ The project secured First Place at LPU's Cognitia 2025 Technical Competition.
 
 **Laxmipriya Murmu**
 
-Aerospace Engineering Undergraduate
+B.Tech Aerospace Engineering
+Lovely Professional University
 
-Rocket Propulsion | Space Systems | CFD & Aerodynamics
+🚀 Rocket Propulsion | 🛰️ Space Systems | ✈️ CFD & Aerodynamics
 
 [LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
 
