@@ -1,70 +1,85 @@
-# E-Class Solid Propellant Rocket
+# E-Class Solid Propellant Rocket with Parachute Recovery System
 
-## Overview
+## Project Overview
 
-This project involved the design, development, manufacturing, and testing of an E-Class solid propellant rocket featuring an integrated parachute recovery system.
+This project presents the design, fabrication, and flight testing of an **E-Class solid propellant rocket** equipped with an integrated **parachute recovery system**. Developed for **Cognitia 2025**, Lovely Professional University's annual technical competition, the project combined propulsion system development, structural design, manufacturing, and experimental flight validation.
 
-The project was developed as part of LPU's Cognitia 2025 technical competition and focused on propulsion system development, structural design, manufacturing, flight testing, and recovery system integration.
+The primary objective was to develop a reliable model rocket capable of stable powered flight and safe recovery while demonstrating practical applications of aerospace engineering principles.
 
 ---
 
 ## Objectives
 
-* Design and develop an E-Class solid rocket motor
-* Evaluate solid propellant performance
-* Integrate a parachute-based recovery system
-* Manufacture flight-ready hardware
-* Demonstrate successful launch and recovery
+- Design and develop an E-Class solid propellant rocket.
+- Evaluate the performance of a KNO₃–Sucrose solid propellant.
+- Design and integrate a parachute-based recovery system.
+- Manufacture lightweight structural components using 3D printing.
+- Conduct successful launch and recovery demonstrations.
+- Validate propulsion and recovery system performance through flight testing.
 
 ---
 
-## Key Specifications
+## Rocket Specifications
 
-| Parameter          | Value                              |
-| ------------------ | ---------------------------------- |
-| Rocket Class       | E-Class                            |
-| Approximate Thrust | 27 N                               |
-| Propellant         | Potassium Nitrate (KNO₃) + Sucrose |
-| Recovery System    | Parachute Recovery                 |
-| Manufacturing      | 3D Printed Components              |
+| Parameter | Value |
+|----------|-------|
+| Rocket Class | E-Class |
+| Approximate Thrust | 27 N |
+| Propellant | Potassium Nitrate (KNO₃) + Sucrose |
+| Recovery System | Parachute Deployment |
+| Manufacturing | 3D Printed Components |
+| Flight Type | Experimental Model Rocket |
 
 ---
 
-## Technologies Used
+## Project Development
 
-* Rocket Propulsion
-* Solid Propellants
-* CAD Design
-* 3D Printing
-* Aerospace Engineering
-* Experimental Testing
+The project involved the complete engineering workflow, including:
+
+- Rocket body and structural design
+- Propellant preparation and motor assembly
+- Recovery system integration
+- Vehicle assembly
+- Flight preparation
+- Launch testing
+- Post-flight recovery and evaluation
 
 ---
 
 ## Key Contributions
 
-* Designed and developed a solid rocket motor generating approximately 27 N thrust.
-* Evaluated propellant formulations for stable combustion.
-* Participated in vehicle assembly and structural integration.
-* Developed and integrated a parachute recovery system.
-* Contributed to propulsion system testing and performance evaluation.
-* Implemented modular design concepts and 3D-printed recovery hardware.
+- Designed and assembled an E-Class solid rocket.
+- Evaluated solid propellant performance for stable combustion.
+- Integrated a parachute recovery mechanism.
+- Participated in structural assembly and launch preparation.
+- Assisted in propulsion system testing and flight validation.
+- Contributed to post-flight recovery and performance evaluation.
+
+---
+
+## Software & Tools
+
+- SolidWorks / CAD Design
+- 3D Printing
+- Microsoft Excel
+- Arduino IDE
+- Experimental Testing Equipment
 
 ---
 
 ## Rocket Development
 
-### Assembly Process
+### Rocket Assembly
 
-![Assembly](images/rocket-assembly.png)
+![Rocket Assembly](images/rocket-assembly.png)
 
 ### Final Rocket Configuration
 
-![Rocket](images/rocket-final.png)
+![Final Rocket](images/rocket-final.png)
 
 ### Rocket with Author
 
-![Author](images/rocket-with-author.png)
+![Rocket with Author](images/rocket-with-author.png)
 
 ---
 
@@ -72,11 +87,11 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 ### Rocket Launch
 
-![Launch](images/rocket-launch.png)
+![Rocket Launch](images/rocket-launch.png)
 
-### Parachute Recovery
+### Successful Recovery
 
-![Recovery](images/rocket-recovery.png)
+![Rocket Recovery](images/rocket-recovery.png)
 
 ---
 
@@ -84,7 +99,7 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 ### Project Team
 
-![Team](images/team-photo.png)
+![Team Photo](images/team-photo.png)
 
 ---
 
@@ -92,13 +107,13 @@ The project was developed as part of LPU's Cognitia 2025 technical competition a
 
 🏆 **Winner – Cognitia 2025**
 
-The project secured First Place at Lovely Professional University's Cognitia 2025 Technical Competition.
+The project secured **First Place** at **Lovely Professional University's Cognitia 2025 Technical Competition**, recognizing excellence in design, innovation, and successful flight demonstration.
 
 ### Award Ceremony
 
 ![Award Ceremony](images/winner-ceremony.png)
 
-### Trophy & Recognition
+### Recognition
 
 ![Award 1](images/cognitia-award-1.png)
 
@@ -106,23 +121,29 @@ The project secured First Place at Lovely Professional University's Cognitia 202
 
 ---
 
-## Achievement
+## Project Highlights
 
-* 🏆 Winner – Cognitia 2025
-* 💰 Cash Prize: ₹3,000
-* 🚀 Successfully demonstrated rocket launch and recovery
-* 🛠️ Developed a functional E-Class solid propulsion system
+- Successfully designed and fabricated an E-Class rocket.
+- Demonstrated stable powered flight.
+- Achieved successful parachute deployment and recovery.
+- Integrated lightweight 3D-printed structural components.
+- Validated propulsion and recovery system performance through experimental testing.
+- Awarded **Winner – Cognitia 2025**.
 
 ---
 
-## Skills Developed
+## Skills Demonstrated
 
-* Rocket Propulsion
-* Solid Propellant Systems
-* Aerospace Manufacturing
-* Recovery Systems
-* Experimental Testing
-* 3D Printing
+- Rocket Propulsion
+- Solid Propellant Systems
+- Aerospace Design
+- CAD Modeling
+- 3D Printing
+- Structural Assembly
+- Recovery System Design
+- Experimental Testing
+- Flight Operations
+- Engineering Teamwork
 
 ---
 
@@ -130,11 +151,13 @@ The project secured First Place at Lovely Professional University's Cognitia 202
 
 **Laxmipriya Murmu**
 
-B.Tech Aerospace Engineering
+B.Tech Aerospace Engineering  
 Lovely Professional University
 
-🚀 Rocket Propulsion | 🛰️ Space Systems | ✈️ CFD & Aerodynamics
+**Interests:** Rocket Propulsion • Space Systems • CFD • Aerodynamics
 
-[LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
+---
 
-[GitHub](https://github.com/laxmipriyamurmu)
+## Acknowledgements
+
+This project was developed as part of the **Cognitia 2025 Technical Competition** at **Lovely Professional University**, with the collaborative efforts of the project team and the guidance of faculty mentors.
